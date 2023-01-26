@@ -1,0 +1,5 @@
+.var nameField=dokument.getelementByid<name>
+.var surnameField=dokument.getelementByid<surname>
+.var ageField=dokument.getelementByid<age>
+.var emailField=dokument.getelementByid<email>
+.var address
